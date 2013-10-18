@@ -1,10 +1,11 @@
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
+Sturla Halldórsson
 
 ## 1. Linux uppsetning
 
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+Þetta reyndist eiginlega auðveldasti hluti verkefnisins! Ubuntu 12.04 keyrt upp af USB og nettengdist strax án vandamála.
+!(mynd.png "Ubuntu í action")
 
 ## 2. Uppsetning á vim && git
 
