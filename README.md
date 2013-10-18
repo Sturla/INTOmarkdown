@@ -9,13 +9,15 @@ Sturla Halldórsson
 
 ## 2. Uppsetning á vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
+Skipanirnar sem fylgdu verkefninu leystu þetta vandræðalaust.
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
+Lenti í vandræðum þarna með SSH lykilinn og þurfti að gera það allt upp á nýtt. Áttaði mig ekki strax á því að þetta var ekki eins og átti að vera og eyddi
+miklum tíma í að átta mig á hvernig þetta Git dót eiginlega virkaði, þegar ég var í raun ekki búin að ganga frá tengingu!
 
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+
+
 
 ## 4. Uppsettur hugbúnaður
 
