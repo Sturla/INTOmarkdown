@@ -5,7 +5,7 @@ Sturla Halldórsson
 ## 1. Linux uppsetning
 
 Þetta reyndist eiginlega auðveldasti hluti verkefnisins! Ubuntu 12.04 keyrt upp af USB og nettengdist strax án vandamála.
-!(mynd.png "Ubuntu í action")
+![Alt text](mynd.png)
 
 ## 2. Uppsetning á vim && git
 
